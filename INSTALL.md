@@ -1,5 +1,5 @@
 ## Required tools and packages
-Our replicaion package is programed in Python and R languages. To replicate our study, install:
+Our replicaion package is comprised of Python and R programs. To replicate our study, install:
 - Python 3.6
 - R 3.3.2
 
