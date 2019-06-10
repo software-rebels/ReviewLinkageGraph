@@ -1,3 +1,23 @@
-## Required tools and packages 
+## Required tools and packages
+Our replicaion package is programed in Python and R languages. To replicate our study, install:
 - Python 3.6
-- R
+- R 3.3.2
+
+To execute RUN.sh, install the following libraries:
+
+[Python]
+- numpy
+- nltk
+- sklearn
+- imblearn
+- pandas
+- scipy
+- itertools
+- pymongo
+- locale
+
+[R]
+- ggplot2
+- scales
+- tidyverse
+- reshape2
