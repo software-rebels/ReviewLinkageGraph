@@ -18,7 +18,7 @@ The R script (`plotLinkTrend.R`) generates Figure 1 (i.e, `linkTrend_rq1.pdf`) i
 
 ### Linkage Type Analysis (RQ2)
 The RQ2 folder contains the samples from our manual analysis.
-Our CSV file (`mr_fse2019_submission_with_date.csv`) contains the manually assigned labels and details about each label.
+Our CSV file (`mr_fse2019_submission_with_additional_description.csv`) contains the manually assigned labels and details about each label.
 
 ### Automated Linkage Type Classification (RQ3)
 The RQ3 folder contains the scripts to train and analyze machine learning classifiers to label review links.
