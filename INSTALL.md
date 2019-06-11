@@ -14,7 +14,6 @@ To execute RUN.sh, install the following libraries:
 - scipy
 - itertools
 - pymongo
-- locale
 
 [R]
 - ggplot2
