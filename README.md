@@ -3,6 +3,10 @@ This is a replication package for the paper "The Review Linkage Graph for Code R
 This package is comprised of four folders that correspond to the analyses that we conducted in our four research
 question (RQ1-RQ4).
 
+## Code Snapshot
+
+Download the repository from Figshare at: https://doi.org/10.6084/m9.figshare.7010474.v5
+
 ### Set Up Environment and Execute scripts
 To install necessary libraries, execute this:
 > tcsh INSTALL.sh
